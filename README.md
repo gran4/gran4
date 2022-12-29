@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gran4(nerdy teen age kid)
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to use unity
+- 👋 Hi, I’m @gran4(a nerdy potato, who is your gandma)
+- 👀 I’m interested in ur mom
+- 🌱 I’m currently learning how to use ur mom
 - 💞️ I’m looking to collaborate on unity projects
-- 📫 How to reach me email 22hurg@sjchristian.org or call 408-705-3251
+- 📫 How to reach me email fifttim@gmail.com 
 
 <!---
 gran4/gran4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
