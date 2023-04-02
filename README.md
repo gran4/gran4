@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gran4
 - 👀 I’m interested in python,
-- I open source contribute to arcade(python) and want ot contribute to cloud_custodian
+- I open source contribute to arcade(python) and want to contribute to cloud_custodian
 - 🌱 I’m currently learning how to open source contribute
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me email fifttim@gmail.com
