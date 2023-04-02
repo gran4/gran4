@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gran4(a nerdy potato, who is your gandma)
+- 👋 Hi, I’m @gran4
 - 👀 I’m interested in python,
 - I open source contribute to arcade(python) and want ot contribute to cloud_custodian
 - 🌱 I’m currently learning how to open source contribute
