@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @gran4
-- 👀 I’m interested in python,
+- 👋 Hi, I’m Grant Hur
+- 👀 I’m passionite in python, and Intership opportunities
 - I open source contribute to arcade(python) and want to contribute to cloud_custodian
 - 🌱 I’m currently learning how to open source contribute
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me email fifttim@gmail.com
+
+I'm interested in interning(I live in San Jose).
+
 
 <!---
 gran4/gran4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
