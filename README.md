@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me email fifttim@gmail.com
 
-I'm interested in interning(I live in San Jose).
+I'm interested in interning(I live in San Jose, CA, US).
 
 
 <!---
