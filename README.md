@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Grant Hur
 - 👀 I’m passionite in python, and Intership opportunities
-- I open source contribute to arcade(python) and want to contribute to cloud_custodian
-- 🌱 I’m currently learning how to open source contribute
+- Currently I am creating a stock predicter bot https://github.com/gran4/Stock-Bot-Predicter-AI
+- 🌱 I’m currently learning about AI
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me email fifttim@gmail.com
 
