@@ -1,4 +1,3 @@
-<details>
 <summary><strong>Grant Hur | Python Developer | AI Enthusiast</strong></summary>
 Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities. Currently, I'm working on a stock predictor bot project Stock-Bot-Predicter-AI to predict stock market trends.
 
