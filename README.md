@@ -28,7 +28,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <details>
 <summary><strong>📈GitHub Stats</strong></summary>
 
-[![Grant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gran4&show_icons=true&count_private=true&hide=contribs&theme=radical&custom_title=GitHub%20Stats&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Grant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gran4&show_icons=true&count_private=true&hide=prs&include_all_commits=true&custom_title=GitHub%20Stats&hide_rank=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gran4&layout=compact&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
