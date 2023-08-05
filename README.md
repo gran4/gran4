@@ -49,6 +49,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <details>
 <summary><strong>🏗️ Active project</strong></summary>
 
+- I am a semi-regular contributer to the arcade python library.
 - [Stock-Bot-Predicter-AI](https://github.com/gran4/Stock-Bot-Predicter-AI)
   + Open sourced and Quality
 
