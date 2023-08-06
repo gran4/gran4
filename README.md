@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities. Currently, I'm working on a stock predictor bot project [Stock-Bot-Predicter-AI](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock market trends.
 
-### 🤝 Seeking exciting internship opportunities in the San Jose area
+### 🤝 Seeking exciting summer internship opportunities in the San Jose area
 
 <details>
 <summary><strong>📬 Contact</strong></summary>
