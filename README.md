@@ -12,10 +12,12 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <a href="mailto:fifttim@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DGrantHur%26type%3Dpatrons&style=flat)](https://patreon.com/GrantHur)
+<a href="patreon.com/GrantHur">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
+</a>
 
 - 🌐 Personal Website: Coming soon
+
 <br>
 
 <details>
@@ -23,10 +25,13 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 
 - 📍 Location: San Jose, CA, US
 - 🌱 Currently, I'm building an open sourced AI stock bot
-- ❓ I love spicy food and food in general.
 - 🧠 I know python, c, c++, and java(I forgot the go I learned earlier)
 - 🏆 I do competitive programming
 - 🤝 I am seeking exciting summer internship opportunities in the San Jose area
+- ❓ I love spicy food and food in general.
+- I use <a>
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
   
 </details>
 
@@ -44,11 +49,26 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 
 
 <details>
-<summary><strong>🔧 Projects & Collaborations</strong></summary>
+<summary><strong> Skills </strong></summary>
+<a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
 
-- 💻 I'm actively seeking collaboration on game(🎮)/and or AI(🤖) development(🏗️) projects.
-- 📚 Check out my other projects and contributions on [GitHub](https://github.com/gran4).
+<a>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</a>
 
+<a>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+
+<a>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</a>
+
+<a>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</a>
 </details>
 
 <details>
