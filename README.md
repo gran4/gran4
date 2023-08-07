@@ -24,6 +24,8 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 - 📍 Location: San Jose, CA, US
 - 🌱 Currently, I'm building an open sourced AI stock bot
 - ❓ I love spicy food and food in general.
+- 🧠 I know python, c, c++, and java(I forgot the go I learned earlier)
+- 🏆 I do competitive programming
   
 </details>
 
