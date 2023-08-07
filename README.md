@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif"
-        width="40px">, I'm gran4 (Gran<i>t Hur<i>)
+        width="40px">, I'm gran4 (Gran<em>t Hur<em>)
 <h3 align="center">🧠 Innovative, Passionate Software Engineer </h3></h1>
 
 
