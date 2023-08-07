@@ -12,19 +12,10 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=flat)](patreon.com/GrantHur)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DGrantHur%26type%3Dpatrons&style=flat)](https://patreon.com/GrantHur)
 
-<br>
-
-<details>
-<summary><strong>📬 Contact</strong></summary>
-
-- 📧 Email: fifttim@gmail.com
-- 🙄 Patreon: https://www.patreon.com/GrantHur
 - 🌐 Personal Website: Coming soon
-- Discord: https://discord.gg/uHqBrqrr
-</details>
-
+<br>
 
 <details>
 <summary><strong>😄 About Me</strong></summary>
