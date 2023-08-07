@@ -29,7 +29,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <a>
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 </a>
- User
+
 </details>
 
 
@@ -65,7 +65,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 
 </details>
 
-<details open>
+<details>
 <summary><strong>🏗️ Active project(s) </strong></summary>
 
 #### [Stock-Bot-Predictor-AI](https://github.com/gran4/Stock-Bot-Predictor-AI): One of the first open-sourced Machine Learning Stock Bots. It's highly customizable and can also be used as a stock library.
