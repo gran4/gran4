@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif"
         width="40px">, I'm gran4 (Grant Hur)<h3 align="center">🧠 Premium Software Engineer </h3></h1>
-                                      ^ ^^^
+<h1 align="center">^ ^^^<h3 align="center">
 
 ## Grant Hur | Python Developer | AI Enthusiast
 
