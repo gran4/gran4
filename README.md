@@ -5,7 +5,8 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 ### 🤝 Seeking exciting summer internship opportunities in the San Jose area
 <br>
 
-📬
+<details open>
+<summary><strong>📬 Let's get in touch</strong></summary>
 <a href="https://www.linkedin.com/in/grant-hur-68a71a26a/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
@@ -14,8 +15,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 </a>
 
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DGrantHur%26type%3Dpatrons&style=flat)](https://patreon.com/GrantHur)
-
-<br>
+</details>
 
 <details>
 <summary><strong>😄 About Me</strong></summary>
