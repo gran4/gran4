@@ -1,3 +1,7 @@
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif"
+        width="40px">, I'm gran4 (Grant Hur)<h3 align="center">🧠 Premium Software Engineer </h3></h1>
+                                      ^ ^^^
+
 ## Grant Hur | Python Developer | AI Enthusiast
 
 Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities. Currently, I'm working on a stock predictor bot project [Stock-Bot-Predicter-AI](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock market trends.
