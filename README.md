@@ -2,8 +2,6 @@
 
 Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities. Currently, I'm working on a stock predictor bot project [Stock-Bot-Predicter-AI](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock market trends.
 
-### 🤝 Seeking exciting summer internship opportunities in the San Jose area
-
 📬
 <a href="https://www.linkedin.com/in/grant-hur-68a71a26a/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
@@ -11,6 +9,8 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <a href="mailto:fifttim@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+
+### 🤝 Seeking exciting summer internship opportunities in the San Jose area
 
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DGrantHur%26type%3Dpatrons&style=flat)](https://patreon.com/GrantHur)
 
