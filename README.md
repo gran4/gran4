@@ -15,7 +15,6 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DGrantHur%26type%3Dpatrons&style=flat)](https://patreon.com/GrantHur)
 
-- 🌐 Personal Website: Coming soon
 <br>
 
 <details>
@@ -27,11 +26,10 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 - 🏆 I do competitive programming
 - 🤝 I am seeking exciting summer internship opportunities in the San Jose area
 - ❓ I love spicy food and food in general.
-- I use:
 <a>
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 </a>
-
+ User
 </details>
 
 
@@ -47,7 +45,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 </details>
 
 
-<details>
+<details open>
 <summary><strong>Skills</strong></summary>
 <a>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -67,14 +65,13 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 
 </details>
 
-<details>
-<summary><strong>🏗️ Active project</strong></summary>
+<details open>
+<summary><strong>🏗️ Active project(s) </strong></summary>
 
-- I am a semi-regular contributer to the arcade python library.
-- [Stock-Bot-Predicter-AI](https://github.com/gran4/Stock-Bot-Predicter-AI)
-  + One of the first open sourced Machine Learning Stock Bots
-  + Much higher Quality then other comparable Bots
-  + Very Customizable
-  + Can be used as a stock library, not only as a Stock Bot
+#### [Stock-Bot-Predictor-AI](https://github.com/gran4/Stock-Bot-Predictor-AI): One of the first open-sourced Machine Learning Stock Bots. It's highly customizable and can also be used as a stock library.
+
+#### [Arcade Python Library Contributions](https://github.com/arcade-academy/arcade): A python game library with hundreds of thousands of downloads. 5.6k per month.
 
 </details>
+
+
