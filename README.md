@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif"
         width="40px">, I'm gran4 (Gran/t Hur)
-<h3 align="center">________________________^ ^^^</h3>
+<h3 align="center">___________________________________^ ^^^</h3>
 <h3 align="center">🧠 Innovative, Passionate Software Engineer </h3></h1>
 
 
