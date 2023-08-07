@@ -26,6 +26,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 - ❓ I love spicy food and food in general.
 - 🧠 I know python, c, c++, and java(I forgot the go I learned earlier)
 - 🏆 I do competitive programming
+- 🤝 I am seeking exciting summer internship opportunities in the San Jose area
   
 </details>
 
@@ -55,6 +56,9 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 
 - I am a semi-regular contributer to the arcade python library.
 - [Stock-Bot-Predicter-AI](https://github.com/gran4/Stock-Bot-Predicter-AI)
-  + Open sourced and Quality
+  + One of the first open sourced Machine Learning Stock Bots
+  + Much higher Quality then other comparable Bots
+  + Very Customizable
+  + Can be used as a stock library, not only as a Stock Bot
 
 </details>
