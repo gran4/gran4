@@ -71,10 +71,10 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <details>
 <summary><strong>🏗️ Active project(s) </strong></summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/gran4/Stock-Bot-Predictor-AI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gran4&repo=Stock-Bot-Predictor-AI" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/pythonarcade/arcade">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvcraven&repo=arcade" />
 </a>
 
