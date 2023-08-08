@@ -1,13 +1,12 @@
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif"
-        width="40px">, I'm Gran4 (Gran<b><i>t Hur</i></b>)<h3 align="center">🧠 Passionate Software Engineer </h3></h1>
-
+        width="40px">, I'm Gran4 (Gran<b><i>t Hur</i></b>)<h3 align="center">🔥 Passionate Software Engineer </h3></h1>
 
 
 ## Grant Hur | Python Developer | AI Enthusiast
 
 Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities. Currently, I'm working on a stock predictor bot project [Stock-Bot-Predicter-AI](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock market trends.
 
-### 🤝 Seeking exciting summer internship opportunities in the San Jose area
+### 🤝 Seeking exciting summer internship opportunities in the Silicon Valley area
 <br>
 
 <details open>
@@ -46,7 +45,6 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gran4&layout=compact&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
 </details>
 
 
@@ -73,9 +71,12 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <details>
 <summary><strong>🏗️ Active project(s) </strong></summary>
 
-#### [Stock-Bot-Predictor-AI](https://github.com/gran4/Stock-Bot-Predictor-AI): One of the first open-sourced Machine Learning Stock Bots. It's highly customizable and can also be used as a stock library.
-
-#### [Arcade Python Library Contributions](https://github.com/arcade-academy/arcade): A python game library with hundreds of thousands of downloads. 5.6k per month.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gran4&repo=Stock-Bot-Predictor-AI" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvcraven&repo=arcade" />
+</a>
 
 </details>
 
