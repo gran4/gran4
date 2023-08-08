@@ -71,7 +71,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <details>
 <summary><strong>🏗️ Active project(s) </strong></summary>
 
-#### [Stock-Bot-Predicter-AI](https://github.com/gran4/Stock-Bot-Predicter-AI): I won he best open sourced stockbot yet.
+#### [Stock-Bot-Predicter-AI](https://github.com/gran4/Stock-Bot-Predicter-AI): I own the best open sourced stockbot yet.
 
 #### [Python arcade](https://github.com/pythonarcade/arcade): I contribute to the arcade game library that gets 5.6k downloads a month
 
