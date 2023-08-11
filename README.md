@@ -4,7 +4,7 @@
 
 ## Grant Hur | Python Developer | AI Enthusiast
 
-Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities. Currently, I'm working on a stock predictor bot project [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock market trends.
+Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities. Currently, I'm working on a innovative stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock market trends.
 
 ### 🤝 Seeking exciting summer internship opportunities in the Silicon Valley area
 <br>
@@ -26,9 +26,9 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 
 - 📍 Location: San Jose, CA, US
 - 🌱 Currently, I'm building an open sourced AI stock bot
-- 🧠 I know python, c, c++, and java(I forgot the go I learned earlier)
+- 🧠 I know python, c, c++, iOS, and java
 - 🏆 I do competitive programming
-- 🤝 I am seeking exciting summer internship opportunities in the San Jose area
+- 🤝 I am seeking exciting summer internship opportunities in the Silicon Valley area
 - ❓ I love spicy food and food in general.
 <a>
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
@@ -71,7 +71,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <details>
 <summary><strong>🏗️ Active project(s) </strong></summary>
 
-#### [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI): I own the best open sourced stockbot yet.
+#### [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI): I created an innovative, high quality stockbot. This is my main project.
 
 #### [Python arcade](https://github.com/pythonarcade/arcade): I contribute to the arcade game library that gets 5.6k downloads a month
 
