@@ -4,7 +4,7 @@
 
 ## Grant Hur | Python Developer | AI Enthusiast
 
-Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities(for next summer). I'm currently working on an innovative stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock movements, autonomously buy and sell stock, manage risk, and optimize your stock portfolio.
+Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities(for next summer). I'm currently working on an innovative stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock movements, automatically trade stock, manage risk, and optimize your stock portfolio.
 
 ### 🤝 Seeking exciting summer internship opportunities in the Silicon Valley area
 <br>
@@ -25,7 +25,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <summary><strong>😄 About Me</strong></summary>
 
 - 📍 Location: San Jose, CA, US
-- 🌱 Currently, I'm building an open sourced AI stock bot
+- 🌱 Currently, I'm building an open sourced AI powered stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI)
 - 🧠 I know python, c, c++, iOS, and java
 - 🏆 I do competitive programming
 - 🤝 I am seeking exciting summer internship opportunities in the Silicon Valley area
