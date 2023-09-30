@@ -22,7 +22,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 </details>
 
 <details>
-<summary><strong>😄 About Me</strong></summary>
+<summary><strong>😄 About Me </strong></summary>
 
 - 📍 Location: San Jose, CA, US
 - 🌱 Currently, I'm building an open sourced AI powered stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI)
@@ -30,7 +30,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 - 🏆 I do competitive programming
 - 🤝 I am seeking exciting summer internship opportunities in the Silicon Valley area
 - ❓ I love spicy food and food in general
-- ❓ I also like soccer
+- ❓ I play gold level, competitive soccer
 
 </details>
 
