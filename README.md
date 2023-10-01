@@ -29,8 +29,8 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 - 🧠 I know python, c, c++, iOS, and java
 - 🏆 I do competitive programming
 - 🤝 I am seeking exciting summer internship opportunities in the Silicon Valley area
-- ❓ I love spicy food and food in general
-- ❓ I play gold level, competitive soccer
+- ⚽️ I play gold level, competitive soccer
+- 🌶️ I love spicy food and food in general
 
 </details>
 
