@@ -22,7 +22,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 </details>
 
 <details>
-<summary><strong> 😄 About Me </strong></summary>
+<summary><strong>😄 About Me </strong></summary>
 
 - 📍 Location: San Jose, CA, US
 - 🌱 Currently, I'm building an open sourced AI powered stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI)
