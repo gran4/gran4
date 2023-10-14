@@ -18,7 +18,6 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <a href="mailto:fifttim@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DGrantHur%26type%3Dpatrons&style=flat)](https://patreon.com/GrantHur)
 </details>
 
