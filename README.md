@@ -6,7 +6,6 @@
 
 Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities(for next summer). I'm currently working on an innovative stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock movements, automatically trade stock, manage risk, and optimize your stock portfolio.
 
-I won the 2024 1st place in Lockheed Martin's coding competition called code quest.
 
 ### 🤝 Seeking exciting summer internship opportunities in the Silicon Valley area
 
