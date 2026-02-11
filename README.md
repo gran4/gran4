@@ -19,7 +19,9 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <a href="mailto:fifttim@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DGrantHur%26type%3Dpatrons&style=flat)](https://patreon.com/GrantHur)
+<a href="https://asdrp-website.onrender.com/resume">
+    <img src="https://img.shields.io/badge/-Resume%20Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white">
+</a>
 </details>
 
 <details>
@@ -29,6 +31,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 - 🌱 Currently, I'm building an open sourced AI powered stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI)
 - 🧠 I know python, c, c++, iOS, and java
 - 🏆 I won the 2024 1st place in Lockheed Martin's coding competition called code quest
+- 💸 I won my ASDRP group personal website challenge ($20 prize) with my site: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
 - 🤝 I am seeking exciting summer internship opportunities in the Silicon Valley area
 - ⚽️ I play premier level, competitive soccer
 
@@ -77,5 +80,4 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 #### [Python arcade](https://github.com/pythonarcade/arcade): I contribute to the arcade game library that gets 5.6k downloads a month
 
 </details>
-
 
