@@ -4,7 +4,7 @@
 
 ## Grant Hur | Python Developer | AI Enthusiast
 
-Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI. Right now, I'm focused on ASDRP and improving my personal website.
+Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI to boost my own productivity. Right now, I'm focused on ASDRP and improving my personal website.
 
 
 ### 🤝 Let's connect
