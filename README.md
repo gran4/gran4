@@ -4,15 +4,15 @@
 
 ## Grant Hur | Python Developer | AI Enthusiast
 
-Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeking internship opportunities(for next summer). I'm currently working on an innovative stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI) to predict stock movements, automatically trade stock, manage risk, and optimize your stock portfolio.
+Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI. Right now, I'm focused on ASDRP and improving my personal website.
 
 
-### 🤝 Seeking exciting summer internship opportunities in the Silicon Valley area
+### 🤝 Let's connect
 
 <br>
 
 <details open>
-<summary><strong>📬 Let's get in touch</strong></summary>
+<summary><strong>📬 Connect</strong></summary>
 <a href="https://www.linkedin.com/in/grant-hur-68a71a26a/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
@@ -28,11 +28,10 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <summary><strong>😄 About Me </strong></summary>
 
 - 📍 Location: San Jose, CA, US
-- 🌱 Currently, I'm building an open sourced AI powered stock bot called [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI)
+- 🌱 Currently working on the ASDRP iOS app and my personal website: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
 - 🧠 I know python, c, c++, iOS, and java
 - 🏆 I won the 2024 1st place in Lockheed Martin's coding competition called code quest
 - 💸 I won my ASDRP group personal website challenge ($20 prize) with my site: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
-- 🤝 I am seeking exciting summer internship opportunities in the Silicon Valley area
 - ⚽️ I play premier level, competitive soccer
 
 </details>
@@ -75,9 +74,8 @@ Hi there! 👋 I'm Grant Hur, a Python developer with a passion for AI and seeki
 <details>
 <summary><strong>🏗️ Active project(s) </strong></summary>
 
-#### [AI-InvestiBot](https://github.com/gran4/Stock-Bot-Predicter-AI): I created an innovative, high quality stockbot still in testing. This is currently my main project. A testing version is available on GitHub.
+#### ASDRP iOS App: Internal student platform that centralizes deadlines, attendance, forms, and profile discovery so lab communication is organized and actionable.
 
-#### [Python arcade](https://github.com/pythonarcade/arcade): I contribute to the arcade game library that gets 5.6k downloads a month
+#### [Personal Website](https://asdrp-website.onrender.com/resume): Polished portfolio showcasing my ASDRP and personal projects with an interactive timeline, a mobile-friendly Kitchen Notes drawer, and a downloadable one-page resume in a classic format.
 
 </details>
-
