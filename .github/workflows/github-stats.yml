@@ -1,0 +1,39 @@
+name: Generate GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-stats:
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats cards
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          username: gran4
+          actor: ${{ github.repository_owner }}
+          theme: radical
+          include_all_commits: true
+          include_private_commits: true
+          hide: ""
+          output_dir: generated
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push generated cards
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "generated/*.svg"
+          message: "chore: update generated GitHub stats cards"

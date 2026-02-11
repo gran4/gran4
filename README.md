@@ -4,7 +4,7 @@
 
 ## Grant Hur | Python Developer | AI Enthusiast
 
-Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI to boost my own productivity. Right now, I'm focused on ASDRP and improving my personal website.
+Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI to boost my own productivity. Right now, I'm focused on ASDRP and improving my personal website, and some of my current work is private/internal and not open-sourced yet.
 
 
 ### 🤝 Let's connect
@@ -29,6 +29,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI
 
 - 📍 Location: San Jose, CA, US
 - 🌱 Currently working on the ASDRP iOS app and my personal website: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
+- 🔒 Some current projects are private/internal and are not open-sourced yet
 - 🧠 I know python, c, c++, iOS, and java
 - 🏆 I won the 2024 1st place in Lockheed Martin's coding competition called code quest
 - 💸 I won my ASDRP group personal website challenge ($20 prize) with my site: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
@@ -40,10 +41,10 @@ Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI
 <details>
 <summary><strong>📈GitHub Stats</strong></summary>
 
-[![Grant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gran4&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Grant's GitHub Stats](./generated/overview.svg)](https://github.com/gran4)
 
 
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gran4&layout=compact&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages Used](./generated/languages.svg)](https://github.com/gran4)
 
 </details>
 
