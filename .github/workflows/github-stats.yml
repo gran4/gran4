@@ -19,21 +19,30 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub stats cards
+      - name: Generate overview card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          username: gran4
-          actor: ${{ github.repository_owner }}
-          theme: radical
-          include_all_commits: true
-          include_private_commits: true
-          hide: ""
-          output_dir: generated
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          options: username=gran4&theme=radical&show_icons=true&include_all_commits=true&count_private=true
+          path: generated/overview.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: top-langs
+          options: username=gran4&theme=radical&layout=compact&hide=html,css
+          path: generated/languages.svg
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push generated cards
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "generated/*.svg"
-          message: "chore: update generated GitHub stats cards"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated/overview.svg generated/languages.svg
+          git commit -m "chore: update generated GitHub stats cards" || exit 0
+          git push

@@ -33,7 +33,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI
 - 🧠 I know python, c, c++, iOS, and java
 - 🏆 I won the 2024 1st place in Lockheed Martin's coding competition called code quest
 - 💸 I won my ASDRP group personal website challenge ($20 prize) with my site: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
-- ⚽️ I play premier level, competitive soccer
+- ⚽️ I play soccer
 
 </details>
 
