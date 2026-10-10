@@ -4,7 +4,7 @@
 
 ## Grant Hur | Python Developer | AI Enthusiast
 
-Hi there! 👋 I'm Grant Hur, a Python developer interested in using AI to improve my workflow. My work includes the ASDRP iOS app and my personal website. Some of my projects are internal and are not publicly available.
+Hi there! 👋 I'm Grant Hur, a computer science student at Johns Hopkins University and a Python developer interested in using AI to improve my workflow. My work includes the ASDRP iOS app and my personal website. Some of my projects are internal and are not publicly available.
 
 
 ### 🤝 Let's connect
@@ -13,7 +13,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer interested in using AI to impro
 
 <details open>
 <summary><strong>📬 Connect</strong></summary>
-<a href="https://www.linkedin.com/in/grant-hur-68a71a26a/">
+<a href="https://www.linkedin.com/in/grant-hur/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="mailto:fifttim@gmail.com">
@@ -27,11 +27,11 @@ Hi there! 👋 I'm Grant Hur, a Python developer interested in using AI to impro
 <details>
 <summary><strong>😄 About Me </strong></summary>
 
-- 📍 Location: San Jose, CA, US
+- 📍 Location: Baltimore, MD / San Jose, CA
 - 🌱 Projects include the ASDRP iOS app and my personal website: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
 - 🔒 Some projects are internal and are not publicly available
 - 🧠 Experience with Python, C, C++, Java, and iOS development
-- 🏆 Won first place in Lockheed Martin’s Code Quest coding competition in 2024
+- 🏆 Won first place with my team in the lower division of Lockheed Martin’s 2024 Code Quest competition
 - 🏅 Won my ASDRP group’s personal website challenge with my site: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
 - ⚽️ I play soccer
 
@@ -75,7 +75,7 @@ Hi there! 👋 I'm Grant Hur, a Python developer interested in using AI to impro
 <details>
 <summary><strong>🏗️ Projects </strong></summary>
 
-#### ASDRP iOS App
+#### ASDRP Central (iOS App)
 
 An internal student platform that brings deadlines, attendance, forms, and profile discovery together to help organize lab communication.
 
