@@ -1,10 +1,10 @@
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif"
-        width="40px">, I'm Gran4 (Gran<b><i>t Hur</i></b>)<h3 align="center">🔥 Passionate Software Engineer </h3></h1>
+<h1 align="center">Hi there, I’m Grant Hur (Gran4) 👋</h1>
+<h3 align="center">Python Developer | AI Enthusiast</h3>
 
 
 ## Grant Hur | Python Developer | AI Enthusiast
 
-Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI to boost my own productivity. Right now, I'm focused on ASDRP and improving my personal website, and some of my current work is private/internal and not open-sourced yet.
+Hi there! 👋 I'm Grant Hur, a Python developer interested in using AI to improve my workflow. My work includes the ASDRP iOS app and my personal website. Some of my projects are internal and are not publicly available.
 
 
 ### 🤝 Let's connect
@@ -14,10 +14,10 @@ Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI
 <details open>
 <summary><strong>📬 Connect</strong></summary>
 <a href="https://www.linkedin.com/in/grant-hur-68a71a26a/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="mailto:fifttim@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://asdrp-website.onrender.com/resume">
     <img src="https://img.shields.io/badge/-Resume%20Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white">
@@ -28,18 +28,18 @@ Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI
 <summary><strong>😄 About Me </strong></summary>
 
 - 📍 Location: San Jose, CA, US
-- 🌱 Currently working on the ASDRP iOS app and my personal website: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
-- 🔒 Some current projects are private/internal and are not open-sourced yet
-- 🧠 I know python, c, c++, iOS, and java
-- 🏆 I won the 2024 1st place in Lockheed Martin's coding competition called code quest
-- 💸 I won my ASDRP group personal website challenge ($20 prize) with my site: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
+- 🌱 Projects include the ASDRP iOS app and my personal website: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
+- 🔒 Some projects are internal and are not publicly available
+- 🧠 Experience with Python, C, C++, Java, and iOS development
+- 🏆 Won first place in Lockheed Martin’s Code Quest coding competition in 2024
+- 🏅 Won my ASDRP group’s personal website challenge with my site: [asdrp-website.onrender.com/resume](https://asdrp-website.onrender.com/resume)
 - ⚽️ I play soccer
 
 </details>
 
 
 <details>
-<summary><strong>📈GitHub Stats</strong></summary>
+<summary><strong>📈 GitHub Stats</strong></summary>
 
 [![Grant's GitHub Stats](./generated/overview.svg)](https://github.com/gran4)
 
@@ -73,10 +73,15 @@ Hi there! 👋 I'm Grant Hur, a Python developer on the cutting edge of using AI
 </details>
 
 <details>
-<summary><strong>🏗️ Active project(s) </strong></summary>
+<summary><strong>🏗️ Projects </strong></summary>
 
-#### ASDRP iOS App: Internal student platform that centralizes deadlines, attendance, forms, and profile discovery so lab communication is organized and actionable.
+#### ASDRP iOS App
 
-#### [Personal Website](https://asdrp-website.onrender.com/resume): Polished portfolio showcasing my ASDRP and personal projects with an interactive timeline, a mobile-friendly Kitchen Notes drawer, and a downloadable one-page resume in a classic format.
+An internal student platform that brings deadlines, attendance, forms, and profile discovery together to help organize lab communication.
+
+#### [Personal Website](https://asdrp-website.onrender.com/resume)
+
+A portfolio showcasing my ASDRP work and personal projects, with an interactive timeline, mobile-friendly Kitchen Notes, and a downloadable one-page résumé.
 
 </details>
+
